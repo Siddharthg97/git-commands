@@ -72,3 +72,12 @@ Edit
 git add .
 git commit -m "Updated files"
 git push origin main  # or master
+
+
+1. Pull Changes from Remote to Local Branch
+To update your local branch with the latest changes from the remote branch, use:
+
+sh
+Copy
+Edit
+git pull origin <branch-name>
